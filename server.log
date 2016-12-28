@@ -1,0 +1,161 @@
+2016-12-24 22:22:38 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-24 22:22:38 [INFO] Loading pocketmine.yml...
+2016-12-24 22:22:38 [INFO] Loading server properties...
+2016-12-24 22:22:38 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-24 22:22:38 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-24 22:22:38 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-24 22:22:39 [NOTICE] Level "world" not found
+2016-12-24 22:22:39 [INFO] Preparing level "world"
+2016-12-24 22:22:39 [NOTICE] Spawn terrain for level "world" is being generated in the background
+2016-12-24 22:22:39 [INFO] Starting GS4 status listener
+2016-12-24 22:22:39 [INFO] Setting query port to 19132
+2016-12-24 22:22:39 [INFO] Query running on 0.0.0.0:19132
+2016-12-24 22:22:39 [INFO] Default game type: CREATIVE
+2016-12-24 22:22:39 [INFO] Done (96.023s)! For help, type "help" or "?"
+2016-12-24 22:28:14 [INFO] [/192.168.254.34:19132] logged out due to timeout
+2016-12-24 22:37:02 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-24 22:37:02 [INFO] Loading pocketmine.yml...
+2016-12-24 22:37:02 [INFO] Loading server properties...
+2016-12-24 22:37:02 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-24 22:37:02 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-24 22:37:02 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-24 22:37:03 [INFO] Preparing level "world"
+2016-12-24 22:37:03 [INFO] Starting GS4 status listener
+2016-12-24 22:37:03 [INFO] Setting query port to 19132
+2016-12-24 22:37:03 [INFO] Query running on 0.0.0.0:19132
+2016-12-24 22:37:03 [INFO] Default game type: CREATIVE
+2016-12-24 22:37:03 [INFO] Done (1.246s)! For help, type "help" or "?"
+2016-12-24 22:40:32 [INFO] [/192.168.254.34:19132] logged out due to timeout
+2016-12-25 09:30:27 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-25 09:30:27 [INFO] Loading pocketmine.yml...
+2016-12-25 09:30:27 [INFO] Loading server properties...
+2016-12-25 09:30:27 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-25 09:30:27 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-25 09:30:27 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-25 09:30:27 [INFO] Preparing level "world"
+2016-12-25 09:30:28 [INFO] Starting GS4 status listener
+2016-12-25 09:30:28 [INFO] Setting query port to 19132
+2016-12-25 09:30:28 [INFO] Query running on 0.0.0.0:19132
+2016-12-25 09:30:28 [INFO] Default game type: CREATIVE
+2016-12-25 09:30:28 [INFO] Done (1.281s)! For help, type "help" or "?"
+2016-12-25 19:00:36 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-25 19:00:36 [INFO] Loading pocketmine.yml...
+2016-12-25 19:00:36 [INFO] Loading server properties...
+2016-12-25 19:00:36 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-25 19:00:36 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-25 19:00:36 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-25 19:00:37 [INFO] Preparing level "world"
+2016-12-25 19:00:37 [INFO] Starting GS4 status listener
+2016-12-25 19:00:37 [INFO] Setting query port to 19132
+2016-12-25 19:00:37 [INFO] Query running on 0.0.0.0:19132
+2016-12-25 19:00:37 [INFO] Default game type: CREATIVE
+2016-12-25 19:00:37 [INFO] Done (1.845s)! For help, type "help" or "?"
+2016-12-27 [17:02:22] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:02:22] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:03:53] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:03:53] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:05:24] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:05:24] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:07:20] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:07:20] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:08:31] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:08:31] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:18:14] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:18:14] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:19:36] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:19:36] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:20:50] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:20:50] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:22:16] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:22:16] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:25:36] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:25:36] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:31:01] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:31:01] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:42:45] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:42:45] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:44:32] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:44:32] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:45:35] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:45:35] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:51:18] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:51:18] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:52:12] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:52:12] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:56:11] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:56:11] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [17:59:50] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [17:59:50] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-27 [18:01:24] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-27 [18:01:24] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-28 [09:07:53] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-28 [09:07:53] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-28 [09:08:38] [Server thread/CRITICAL]: Unable to find the YAML extension.
+2016-12-28 [09:08:38] [Server thread/CRITICAL]: Please use the installer provided on the homepage, or recompile PHP again.
+2016-12-28 [09:42:50] [Server thread/INFO]: Loading pocketmine.yml...
+2016-12-28 [09:42:50] [Server thread/INFO]: Loading server properties...
+2016-12-28 [09:42:50] [Server thread/INFO]: Selected English (eng) as the base language
+2016-12-28 [09:42:50] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.0.16
+2016-12-28 [09:42:50] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-12-28 [09:42:50] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev "Unleashed" (API 3.0.0-ALPHA1)
+2016-12-28 [09:42:50] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-12-28 [09:42:50] [Server thread/INFO]: Loading recipes...
+2016-12-28 [09:42:51] [Server thread/INFO]: ----- PocketMine-MP Auto Updater -----
+2016-12-28 [09:42:51] [Server thread/INFO]: It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2016-12-28 [09:42:51] [Server thread/INFO]: If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2016-12-28 [09:42:51] [Server thread/INFO]: ----- -------------------------- -----
+2016-12-28 [09:42:51] [Server thread/INFO]: Preparing level "world"
+2016-12-28 [09:42:51] [Server thread/INFO]: Starting GS4 status listener
+2016-12-28 [09:42:51] [Server thread/INFO]: Setting query port to 19132
+2016-12-28 [09:42:51] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-12-28 [09:42:51] [Server thread/INFO]: Default game type: Creative Mode
+2016-12-28 [09:42:51] [Server thread/INFO]: Done (1.021s)! For help, type "help" or "?"
+2016-12-28 [09:45:10] [Server thread/NOTICE]: Player data not found for "luckydinosaur66", creating new profile
+2016-12-28 [09:45:10] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.36:19132] logged in with entity id 1 at (world, 128, 63, 128)
+2016-12-28 [09:45:11] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-28 [09:46:44] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2016-12-28 [09:46:44] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-28 [09:46:44] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.36:19132] logged out due to Server closed
+2016-12-28 [09:46:44] [Server thread/INFO]: Unloading level "world"
+2016-12-28 [09:46:45] [Server thread/INFO]: Stopping other threads
+2016-12-28 [09:51:31] [Server thread/INFO]: Loading pocketmine.yml...
+2016-12-28 [09:51:31] [Server thread/INFO]: Loading server properties...
+2016-12-28 [09:51:31] [Server thread/INFO]: Selected English (eng) as the base language
+2016-12-28 [09:51:31] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.0.16
+2016-12-28 [09:51:31] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-12-28 [09:51:31] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev "Unleashed" (API 3.0.0-ALPHA1)
+2016-12-28 [09:51:31] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-12-28 [09:51:31] [Server thread/INFO]: Loading recipes...
+2016-12-28 [09:51:32] [Server thread/INFO]: ----- PocketMine-MP Auto Updater -----
+2016-12-28 [09:51:32] [Server thread/INFO]: It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2016-12-28 [09:51:32] [Server thread/INFO]: If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2016-12-28 [09:51:32] [Server thread/INFO]: ----- -------------------------- -----
+2016-12-28 [09:51:32] [Server thread/INFO]: Preparing level "world"
+2016-12-28 [09:51:32] [Server thread/INFO]: Starting GS4 status listener
+2016-12-28 [09:51:32] [Server thread/INFO]: Setting query port to 19132
+2016-12-28 [09:51:32] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-12-28 [09:51:32] [Server thread/INFO]: Default game type: Creative Mode
+2016-12-28 [09:51:32] [Server thread/INFO]: Done (0.907s)! For help, type "help" or "?"
+2016-12-28 [09:52:08] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2016-12-28 [09:52:08] [Server thread/INFO]: Unloading level "world"
+2016-12-28 [09:52:09] [Server thread/INFO]: Stopping other threads
+2016-12-28 [09:53:20] [Server thread/INFO]: Loading pocketmine.yml...
+2016-12-28 [09:53:20] [Server thread/INFO]: Loading server properties...
+2016-12-28 [09:53:20] [Server thread/INFO]: Selected English (eng) as the base language
+2016-12-28 [09:53:20] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.0.16
+2016-12-28 [09:53:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-12-28 [09:53:20] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev "Unleashed" (API 3.0.0-ALPHA1)
+2016-12-28 [09:53:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-12-28 [09:53:20] [Server thread/INFO]: Loading recipes...
+2016-12-28 [09:53:20] [Server thread/INFO]: ----- PocketMine-MP Auto Updater -----
+2016-12-28 [09:53:20] [Server thread/INFO]: It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2016-12-28 [09:53:20] [Server thread/INFO]: If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2016-12-28 [09:53:20] [Server thread/INFO]: ----- -------------------------- -----
+2016-12-28 [09:53:20] [Server thread/INFO]: Preparing level "world"
+2016-12-28 [09:53:20] [Server thread/INFO]: Starting GS4 status listener
+2016-12-28 [09:53:20] [Server thread/INFO]: Setting query port to 19132
+2016-12-28 [09:53:20] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-12-28 [09:53:20] [Server thread/INFO]: Default game type: Adventure Mode
+2016-12-28 [09:53:20] [Server thread/INFO]: Done (0.83s)! For help, type "help" or "?"
+2016-12-28 [09:53:39] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.36:19132] logged in with entity id 1 at (world, 172.4193, 75, 180.478)
+2016-12-28 [09:53:40] [Server thread/INFO]: LuckyDinosaur66 joined the game
