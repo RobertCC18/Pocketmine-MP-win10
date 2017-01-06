@@ -159,3 +159,156 @@
 2016-12-28 [09:53:20] [Server thread/INFO]: Done (0.83s)! For help, type "help" or "?"
 2016-12-28 [09:53:39] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.36:19132] logged in with entity id 1 at (world, 172.4193, 75, 180.478)
 2016-12-28 [09:53:40] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:04:40] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected, do not use on production.
+2016-12-30 [13:04:40] [Server thread/INFO]: Loading pocketmine.yml...
+2016-12-30 [13:04:40] [Server thread/INFO]: Loading server properties...
+2016-12-30 [13:04:40] [Server thread/INFO]: Selected English (eng) as the base language
+2016-12-30 [13:04:40] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.0.16
+2016-12-30 [13:04:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2016-12-30 [13:04:41] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev "Unleashed" (API 3.0.0-ALPHA1)
+2016-12-30 [13:04:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2016-12-30 [13:04:47] [Server thread/INFO]: Loading recipes...
+2016-12-30 [13:04:48] [Server thread/INFO]: ----- PocketMine-MP Auto Updater -----
+2016-12-30 [13:04:48] [Server thread/INFO]: It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2016-12-30 [13:04:48] [Server thread/INFO]: If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2016-12-30 [13:04:48] [Server thread/INFO]: ----- -------------------------- -----
+2016-12-30 [13:04:48] [Server thread/INFO]: Preparing level "world"
+2016-12-30 [13:04:49] [Server thread/INFO]: Starting GS4 status listener
+2016-12-30 [13:04:49] [Server thread/INFO]: Setting query port to 19132
+2016-12-30 [13:04:49] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2016-12-30 [13:04:49] [Server thread/INFO]: Default game type: Adventure Mode
+2016-12-30 [13:04:49] [Server thread/INFO]: Done (9.234s)! For help, type "help" or "?"
+2016-12-30 [13:05:17] [Server thread/NOTICE]: Player data not found for "luckydinosaur66", creating new profile
+2016-12-30 [13:05:17] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 1 at (world, 256, 70, 256)
+2016-12-30 [13:05:22] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:05:31] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:05:53] [Server thread/INFO]: That player cannot be found
+2016-12-30 [13:06:20] [Server thread/INFO]: <LuckyDinosaur66> hello
+2016-12-30 [13:06:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2016-12-30 [13:06:53] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2016-12-30 [13:06:53] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2016-12-30 [13:06:53] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2016-12-30 [13:06:53] [Server thread/INFO]: /banlist: View all players banned from this server
+2016-12-30 [13:06:53] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2016-12-30 [13:06:53] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2016-12-30 [13:06:53] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2016-12-30 [13:06:53] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2016-12-30 [13:06:53] [Server thread/INFO]: /enchant: Adds enchantments on items
+2016-12-30 [13:06:53] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2016-12-30 [13:06:53] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2016-12-30 [13:06:53] [Server thread/INFO]: /help: Shows the help menu
+2016-12-30 [13:06:53] [Server thread/INFO]: /kick: Removes the specified player from the server
+2016-12-30 [13:06:53] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2016-12-30 [13:06:53] [Server thread/INFO]: /list: Lists all online players
+2016-12-30 [13:06:53] [Server thread/INFO]: /me: Performs the specified action in chat
+2016-12-30 [13:06:53] [Server thread/INFO]: /op: Gives the specified player operator status
+2016-12-30 [13:06:53] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2016-12-30 [13:06:53] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2016-12-30 [13:06:53] [Server thread/INFO]: /particle: Adds particles to a world
+2016-12-30 [13:06:53] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2016-12-30 [13:06:53] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2016-12-30 [13:06:53] [Server thread/INFO]: /save-all: Saves the server to disk
+2016-12-30 [13:06:53] [Server thread/INFO]: /save-off: Disables server autosaving
+2016-12-30 [13:06:53] [Server thread/INFO]: /save-on: Enables server autosaving
+2016-12-30 [13:06:53] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2016-12-30 [13:06:53] [Server thread/INFO]: /seed: Shows the world seed
+2016-12-30 [13:06:53] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-12-30 [13:06:53] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2016-12-30 [13:06:53] [Server thread/INFO]: /stop: Stops the server
+2016-12-30 [13:06:53] [Server thread/INFO]: /tell: Sends a private message to the given player
+2016-12-30 [13:06:53] [Server thread/INFO]: /time: Changes the time on each world
+2016-12-30 [13:06:53] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2016-12-30 [13:06:53] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-12-30 [13:06:53] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2016-12-30 [13:06:53] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2016-12-30 [13:07:04] [Server thread/INFO]: The world's default game mode is now Adventure Mode
+2016-12-30 [13:07:29] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:07:29] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to client disconnect
+2016-12-30 [13:07:46] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 2 at (world, 379.0312, 69, 273.8459)
+2016-12-30 [13:07:47] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:08:07] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:08:07] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:08:07] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:08:14] [Server thread/INFO]: There are 1/20 players online:
+2016-12-30 [13:08:14] [Server thread/INFO]: LuckyDinosaur66
+2016-12-30 [13:08:38] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:08:38] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to Kicked by admin.
+2016-12-30 [13:08:38] [Server thread/INFO]: [CONSOLE: Kicked LuckyDinosaur66 from the game]
+2016-12-30 [13:08:51] [Server thread/INFO]: This server is running PocketMine-MP 1.6.2dev-#60 「Unleashed」 implementing API version 3.0.0-ALPHA1 for Minecraft: PE v1.0.0.16 (protocol version 100)
+2016-12-30 [13:09:00] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 3 at (world, 416.7373, 73, 187.4577)
+2016-12-30 [13:09:00] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:10:24] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:10:24] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2016-12-30 [13:12:55] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 4 at (world, 488.3087, 75, 140.6183)
+2016-12-30 [13:12:56] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:13:22] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:13:22] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to client disconnect
+2016-12-30 [13:13:22] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2016-12-30 [13:13:22] [Server thread/INFO]: Saving levels...
+2016-12-30 [13:13:23] [Server thread/INFO]: Reloading properties...
+2016-12-30 [13:13:23] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2016-12-30 [13:13:36] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 5 at (world, 490.8726, 72, 139.3275)
+2016-12-30 [13:13:37] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:14:22] [Server thread/INFO]: The world's default game mode is now Creative Mode
+2016-12-30 [13:14:30] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:14:30] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to timeout
+2016-12-30 [13:14:44] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged in with entity id 6 at (world, 494.6535, 73, 139.1706)
+2016-12-30 [13:14:45] [Server thread/INFO]: LuckyDinosaur66 joined the game
+2016-12-30 [13:15:10] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:15:21] [Server thread/WARNING]: LuckyDinosaur66 moved wrongly!
+2016-12-30 [13:15:21] [Server thread/INFO]: [CONSOLE: Set LuckyDinosaur66's game mode to Creative Mode]
+2016-12-30 [13:16:00] [Server thread/INFO]: [CONSOLE: Set LuckyDinosaur66's game mode to Adventure Mode]
+2016-12-30 [13:16:55] [Server thread/INFO]: Unknown game mode
+2016-12-30 [13:17:11] [Server thread/INFO]: [CONSOLE: Set LuckyDinosaur66's game mode to Spectator Mode]
+2016-12-30 [13:17:45] [Server thread/INFO]: [CONSOLE: Set LuckyDinosaur66's game mode to Creative Mode]
+2016-12-30 [13:18:02] [Server thread/INFO]: LuckyDinosaur66 left the game
+2016-12-30 [13:18:02] [Server thread/INFO]: LuckyDinosaur66[/192.168.254.28:19132] logged out due to timeout
+2016-12-30 [13:18:39] [Server thread/INFO]: Can't find player LuckyDinosaur66
+2016-12-30 [13:18:43] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2016-12-30 [13:18:43] [Server thread/INFO]: Saving levels...
+2016-12-30 [13:18:43] [Server thread/INFO]: Reloading properties...
+2016-12-30 [13:18:43] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2016-12-30 [13:18:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2016-12-30 [13:18:51] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2016-12-30 [13:18:51] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2016-12-30 [13:18:51] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2016-12-30 [13:18:51] [Server thread/INFO]: /banlist: View all players banned from this server
+2016-12-30 [13:18:51] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2016-12-30 [13:18:51] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2016-12-30 [13:18:51] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2016-12-30 [13:18:51] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2016-12-30 [13:18:51] [Server thread/INFO]: /enchant: Adds enchantments on items
+2016-12-30 [13:18:51] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2016-12-30 [13:18:51] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2016-12-30 [13:18:51] [Server thread/INFO]: /help: Shows the help menu
+2016-12-30 [13:18:51] [Server thread/INFO]: /kick: Removes the specified player from the server
+2016-12-30 [13:18:51] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2016-12-30 [13:18:51] [Server thread/INFO]: /list: Lists all online players
+2016-12-30 [13:18:51] [Server thread/INFO]: /me: Performs the specified action in chat
+2016-12-30 [13:18:51] [Server thread/INFO]: /op: Gives the specified player operator status
+2016-12-30 [13:18:51] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2016-12-30 [13:18:51] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2016-12-30 [13:18:51] [Server thread/INFO]: /particle: Adds particles to a world
+2016-12-30 [13:18:51] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2016-12-30 [13:18:51] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2016-12-30 [13:18:51] [Server thread/INFO]: /save-all: Saves the server to disk
+2016-12-30 [13:18:51] [Server thread/INFO]: /save-off: Disables server autosaving
+2016-12-30 [13:18:51] [Server thread/INFO]: /save-on: Enables server autosaving
+2016-12-30 [13:18:51] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2016-12-30 [13:18:51] [Server thread/INFO]: /seed: Shows the world seed
+2016-12-30 [13:18:51] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-12-30 [13:18:51] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2016-12-30 [13:18:51] [Server thread/INFO]: /stop: Stops the server
+2016-12-30 [13:18:51] [Server thread/INFO]: /tell: Sends a private message to the given player
+2016-12-30 [13:18:51] [Server thread/INFO]: /time: Changes the time on each world
+2016-12-30 [13:18:51] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2016-12-30 [13:18:51] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-12-30 [13:18:51] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2016-12-30 [13:18:51] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2016-12-30 [13:23:46] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2016-12-30 [13:23:46] [Server thread/INFO]: Saving levels...
+2016-12-30 [13:23:46] [Server thread/INFO]: Reloading properties...
+2016-12-30 [13:23:46] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2016-12-30 [13:23:59] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2016-12-30 [13:23:59] [Server thread/INFO]: Unloading level "world"
+2016-12-30 [13:24:00] [Server thread/INFO]: Stopping other threads
